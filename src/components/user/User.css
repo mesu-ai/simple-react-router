@@ -1,0 +1,17 @@
+.card{
+    background-color: gainsboro;
+    border-radius: 10px;
+    padding: 12px;
+}
+.details-btn{
+    background-color:navy;
+    color: oldlace;
+    padding: 7px 9px;
+    border-radius: 10px;
+}
+.details-btn:hover{
+    background-color:rgb(204, 13, 13);
+    color: oldlace;
+    padding: 7px 9px;
+    border-radius: 10px;
+}

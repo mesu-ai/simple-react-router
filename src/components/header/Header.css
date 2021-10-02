@@ -1,0 +1,24 @@
+.active{
+    font-weight: bold;
+    padding: 10px;
+    background-color:green;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+
+
+}
+nav{
+    background-color:wheat;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    font-weight: 600;
+
+}
